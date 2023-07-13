@@ -1,5 +1,5 @@
 @media (max-width: 1120px){
-    .cacecalho .logo{
+    .cabecalho .logo{
         max-width: 190px;
     }
 
@@ -21,7 +21,7 @@
         gap: 9px;
     }
 
-    .selecao-de-.selecao-de-personagens .personagens .personagem img{
+    .selecao-de-personagens .personagens .personagem img{
         width: 80px;
     }
 
